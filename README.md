@@ -40,14 +40,6 @@
 
 ###
 
-<img align="left" height="200" src="https://images.pexels.com/photos/4448854/pexels-photo-4448854.jpeg?auto=compress&cs=tinysrgb&w=600"  />
-
-###
-
-<img src="https://raw.githubusercontent.com/adhaghani/adhaghani/output/snake.svg" alt="Snake animation" />
-
-###
-
 <br clear="both">
 
 <div align="center">
